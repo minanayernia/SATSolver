@@ -1,3 +1,4 @@
-#SATSolver
+#  SATSolver
 Mathematical Logic Project
-Implementation of DPLL algorithm
+
+Implementation of DPLL algorithm in python
